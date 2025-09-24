@@ -25,31 +25,29 @@ The data used in this project is sourced from the COVID-19 Stream Data dataset, 
 
 - **Forecasting:** The project uses a Bidirectional LSTM neural network for forecasting. This model is applied for time series analysis to predict future cases.  
 
-## Requirements
-
-To run this script, you need to have the following Python libraries installed. You can easily get them all with one simple command:
+## Requirements & Usage
 
 ```bash
-pip install pandas numpy matplotlib statsmodels scikit-learn tensorflow
+pip install pandas seaborn numpy matplotlib statsmodels scikit-learn tensorflow
 
-
-pip install pandas numpy matplotlib statsmodels scikit-learn tensorflow
-
-Usage
-Make sure your COVID-19 JSON data file is in the same directory as the script and is named json.
-
-Open your terminal, navigate to the project folder, and run the script:
-
+# Usage
 python covid_analysis.py
 
-That's it! The script will automatically perform all the analysis steps and display the plots.
+```
+## File Structure
 
-File Structure
-README.md
+The project contains the following files:
 
-covid_analysis.py
+- `README.md` — This file, containing project overview and instructions  
+- `covid_analysis.py` — Main Python script for data analysis and forecasting  
+- `json` — COVID_Dataset
 
-json (your data file)
+## Contributing
 
-Contributing
-This is a community project! Feel free to fork the repository, add new features, or improve the existing code. If you find any issues or have suggestions, please open an issue—I'd love to hear from you.
+This is a community project! You are welcome to:  
+
+- Fork the repository  
+- Add new features  
+- Improve the existing code  
+
+If you find any issues or have suggestions, please open an issue — I’d love to hear from you.
