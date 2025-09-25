@@ -14,6 +14,10 @@ This project documents a complete data analysis workflow, starting from raw data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## License 
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Data Source
 
 The data used in this project is sourced from the COVID-19 Stream Data dataset, created by H. Gultekin and available on Kaggle.
