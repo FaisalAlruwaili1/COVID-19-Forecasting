@@ -55,7 +55,7 @@ python covid_analysis.py
 The project contains the following files:
 
 - `README.md` — This file, containing project overview and instructions  
-- `covid_analysis.py` — Main Python script for data analysis and forecasting  
+- `Python-Script` — Main Python script for data analysis and forecasting  
 - `Data` — COVID19 Dataset 
 
 ## Contributing
