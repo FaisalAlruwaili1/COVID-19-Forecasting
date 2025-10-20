@@ -1,4 +1,4 @@
-# COVID-19 Case Forecasting
+# COVID-19 Time Series Forecasting 
 
 This project documents a complete data analysis workflow, starting from raw data and culminating in a forecasting model. The goal is to process and understand COVID-19 case data to build a tool that can provide future projections. The journey begins with data ingestion and cleaning, moves through detailed exploration and visualization, and concludes with the application of a neural network to predict future trends.
 
