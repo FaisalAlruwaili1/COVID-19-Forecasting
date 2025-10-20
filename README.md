@@ -56,7 +56,7 @@ The project contains the following files:
 
 - `README.md` — This file, containing project overview and instructions  
 - `covid_analysis.py` — Main Python script for data analysis and forecasting  
-- `json` — COVID_Dataset
+- `Data` — COVID19 Dataset 
 
 ## Contributing
 
